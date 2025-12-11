@@ -1,6 +1,6 @@
 # Hi there, I'm Hema Vaishnavi!
 
-Software Developer | Java Backend | SQL Enthusiast | Problem Solver
+Software Developer | Python | Java Backend | SQL Enthusiast | Problem Solver
 
 ---
 
