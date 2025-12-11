@@ -1,4 +1,4 @@
-# Hi there, I'm Hema Vaishnavi!
+# Hi there, I'm Hemavaishnavi!
 
 Software Developer | Python | Java Backend | SQL Enthusiast | Problem Solver
 
