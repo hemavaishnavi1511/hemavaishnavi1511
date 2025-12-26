@@ -2,13 +2,13 @@
 
 <div align="center">
   
-  **Software Developer | Backend Engineer | SQL Enthusiast**
+  **Data Scientist | Backend Engineer | SQL Enthusiast**
   
   *Building scalable systems, one line of code at a time*
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](YOUR_LEETCODE_URL)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]www.linkedin.com/in/hemavaishnavi
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)]hemavaishnavi2003@gmail.com
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/hemavaishnavir/)
   
 </div>
 
@@ -16,13 +16,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with a focus on building robust and scalable backend systems. I thrive on solving complex problems, optimizing database performance, and writing clean, maintainable code. Currently channeling my energy into mastering system design patterns and preparing for challenges at top product companies.
+I'm a passionate Machine Learning , Datascience and software developer with a focus on building robust and scalable backend systems. I thrive on solving complex problems, optimizing database performance, and writing clean, maintainable code. Currently channeling my energy into mastering system design patterns and preparing for challenges at top product companies.
 
 ```java
 public class Hemavaishnavi {
     private String role = "Backend Developer";
     private String[] languages = {"Java", "Python", "SQL"};
-    private String currentFocus = "System Design & Interview Preparation";
+    private String currentFocus = "Machine Learning & Interview Preparation";
     private boolean openToCollaborate = true;
     
     public String getDailyRoutine() {
