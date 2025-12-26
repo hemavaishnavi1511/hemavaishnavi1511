@@ -100,20 +100,6 @@ public class Hemavaishnavi {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
-  
-</div>
-
----
-
 ## 🌱 What I'm Learning
 - Machine Learning concepts and datascience
 - Artificial intelligence and vibe coding
@@ -153,6 +139,5 @@ Feel free to reach out if you want to collaborate, discuss Java development, SQL
   
   **Thanks for visiting my profile! Let's build something amazing together.** 🚀
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
   
 </div>
