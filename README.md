@@ -2,12 +2,12 @@
 
 <div align="center">
   
-  **Data Scientist | Backend Engineer | SQL Enthusiast**
+  **Data Scientist | Software Developer | Backend Engineer | SQL Enthusiast**
   
   *Building scalable systems, one line of code at a time*
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]www.linkedin.com/in/hemavaishnavi
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)]hemavaishnavi2003@gmail.com
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hemavaishnavi)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:hemavaishnavi2003@gmail.com)
   [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/hemavaishnavir/)
   
 </div>
@@ -16,13 +16,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate Machine Learning , Datascience and software developer with a focus on building robust and scalable backend systems. I thrive on solving complex problems, optimizing database performance, and writing clean, maintainable code. Currently channeling my energy into mastering system design patterns and preparing for challenges at top product companies.
+I'm a passionate software developer with a focus on building robust and scalable backend systems. I thrive on solving complex problems, optimizing database performance, and writing clean, maintainable code. Currently channeling my energy into mastering system design patterns and preparing for challenges at top product companies.
 
 ```java
 public class Hemavaishnavi {
     private String role = "Backend Developer";
     private String[] languages = {"Java", "Python", "SQL"};
-    private String currentFocus = "Machine Learning & Interview Preparation";
+    private String currentFocus = "System Design & Interview Preparation";
     private boolean openToCollaborate = true;
     
     public String getDailyRoutine() {
@@ -60,7 +60,7 @@ public class Hemavaishnavi {
 
 ## 💼 Featured Projects
 
-### 🏦 [JPMorganSE](LINK_TO_PROJECT)
+### 🏦 [JPMorganSE](https://github.com/hemavaishnavi1511/JPMorganSE)
 **Enterprise-grade Backend Development**
 - Java-based backend system showcasing industry best practices
 - Implements clean architecture principles and design patterns
@@ -70,7 +70,7 @@ public class Hemavaishnavi {
 
 ---
 
-### 🚗 [Car Classification for Surveillance](LINK_TO_PROJECT)
+### 🚗 [Car Classification for Surveillance](https://github.com/hemavaishnavi1511/car-classification-for-surveillance-and-automated-monitor-)
 **Machine Learning Pipeline**
 - End-to-end ML pipeline for vehicle classification
 - Data preprocessing, feature engineering, and model training
@@ -80,13 +80,23 @@ public class Hemavaishnavi {
 
 ---
 
-### 🏏 [Cricket Player Prediction](LINK_TO_PROJECT)
+### 🏏 [Cricket Player Prediction](https://github.com/hemavaishnavi1511/cricket-player-and-team-prediction)
 **Data Analytics & Predictive Modeling**
 - Statistical analysis of cricket player performance
 - Predictive models for player selection and match outcomes
 - Data-driven insights for strategic decision-making
 
 **Tech:** `Python` `Pandas` `NumPy` `Machine Learning`
+
+---
+
+### ₿ [Bitcoin Forecast](https://github.com/hemavaishnavi1511/BitcoinForecast)
+**Cryptocurrency Price Prediction**
+- Time series analysis and forecasting for Bitcoin prices
+- Advanced predictive modeling using machine learning algorithms
+- Real-world application of financial data analytics
+
+**Tech:** `Python` `Time Series Analysis` `Machine Learning` `Data Visualization`
 
 ---
 
@@ -105,9 +115,8 @@ public class Hemavaishnavi {
 ---
 
 ## 🌱 What I'm Learning
-
-- Advanced System Design: Microservices, Load Balancing, Caching Strategies
-- Apache Kafka for event-driven architectures
+- Machine Learning concepts and datascience
+- Artificial intelligence and vibe coding
 - Database internals and query optimization techniques
 - Design patterns and architectural best practices in Java
 
@@ -126,7 +135,6 @@ I believe in writing code that not only works but is also elegant, maintainable,
 I'm always excited to work on:
 - 🔧 Open-source backend projects
 - 💻 Challenging algorithmic problems
-- 🏗️ System design implementations
 - 📊 Database optimization projects
 
 Feel free to reach out if you want to collaborate, discuss Java development, SQL optimization, or prepare for coding interviews together!
@@ -135,10 +143,10 @@ Feel free to reach out if you want to collaborate, discuss Java development, SQL
 
 ## 📫 Get In Touch
 
-- 💼 LinkedIn: [Profile]www.linkedin.com/in/hemavaishnavi
+- 💼 LinkedIn: [Hemavaishnavi](https://www.linkedin.com/in/hemavaishnavi)
 - 📧 Email: hemavaishnavi2003@gmail.com
-- 💻 LeetCode: [Your Profile]https://leetcode.com/u/hemavaishnavir/
-- 
+- 💻 LeetCode: [hemavaishnavir](https://leetcode.com/u/hemavaishnavir/)
+
 ---
 
 <div align="center">
