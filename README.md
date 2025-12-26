@@ -34,8 +34,8 @@ public class Hemavaishnavi {
 ### 🎯 Current Focus
 - 🔍 Mastering SQL query optimization and complex database operations
 - 💡 Solving algorithmic challenges on LeetCode daily
-- 📚 Deep diving into advanced system design patterns
-- 🚀 Exploring Kafka integration for event-driven architectures
+- 📚 Deep diving into Machine learning and artificial intelligence
+- 🚀 Exploring vibe coding tools
 - 🎓 Preparing for technical interviews at top product companies
 
 ---
@@ -54,7 +54,6 @@ public class Hemavaishnavi {
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
